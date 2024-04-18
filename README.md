@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Code+and+coffee+=+❤️)](https://git.io/typing-svg)
+
 ## Olá, eu sou o Paulo! Bem-vindo ao meu perfil! 👋
 
 ## 🚀 Sobre mim
