@@ -1,4 +1,3 @@
-
 ## Olá, eu sou o Paulo! Bem-vindo ao meu perfil! 👋
 
 
@@ -14,5 +13,5 @@ Sou uma pessoa apaixonada por tecnologia, games, animes, futebol e filosofia! At
 
 ## 🛠 Habilidades
 HTML, CSS, PYTHON, GIT E GITHUB...
-![euopaulin GitHub stats](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)
 
+![euopaulin GitHub stats](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)
