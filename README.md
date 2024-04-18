@@ -1,5 +1,6 @@
 ## Olá, eu sou o Paulo! Bem-vindo ao meu perfil! 👋
 
+![goku-xenoverse-2-ezgif com-speed](https://github.com/euopaulin/Meus-codigos/assets/157616381/3dcc9dd9-b7f5-4899-8d63-4faf6d4426a4)
 
 ## 🚀 Sobre mim
 Sou uma pessoa apaixonada por tecnologia, games, animes, futebol e filosofia! Atuamente sou estudante do curso de ADS da UCB de Brasília e estou muito focado e me apaixoando cada vez mais pelo mundo da programção e informática.
