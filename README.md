@@ -3,7 +3,7 @@
 # **<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hey, I'm Paulo!**
 
 ## 🚀 Sobre mim
-Sou uma pessoa apaixonada por tecnologia, games, animes, futebol e filosofia! Atuamente sou estudante do curso de ADS da UCB de Brasília e estou muito focado e me apaixoando cada vez mais pelo mundo da programção e informática.
+Sou uma pessoa apaixonada por tecnologia, games, animes, futebol e filosofia! Atuamente sou estudante do curso de ADS da UCB de Brasília e estou muito focado e me apaixonando cada vez mais pelo mundo da programação e informática.
 
 ##### 🔗 Aqui em baixo está alguns links onde você pode me acompanhar e mandar uma mensagem para trocarmos alguma ideia.
 
