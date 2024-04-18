@@ -15,5 +15,6 @@ HTML, CSS, PYTHON, GIT E GITHUB...
 
 ![euopaulin GitHub stats](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)
 
-![goku-xenoverse-2-ezgif com-resize](https://github.com/euopaulin/Meus-codigos/assets/157616381/050d7496-a38e-4f65-924c-1addc10a7a9b)
+![goku-xenoverse-2-ezgif com-resize (1)](https://github.com/euopaulin/Meus-codigos/assets/157616381/a0cbf52b-3430-4d4b-a528-9f9507cc8b2c)
+
 
