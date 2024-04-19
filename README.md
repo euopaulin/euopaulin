@@ -3,7 +3,7 @@
 # **<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hey, I'm Paulo!**
 
 ## 🚀 About me
-I'm a 23-year-old young man passionate about technology, games, anime, football and philosophy! I am currently a student on the ADS course at UCB in Brasília and I am very focused and falling more and more in love with the world of programming and TI.
+I'm a 23-year-old young man passionate about technology, games, anime, soccer and philosophy! I am currently a student on the ADS course at UCB in Brasília and I am very focused and falling more and more in love with the world of programming and TI.
 
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
 
