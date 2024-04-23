@@ -4,17 +4,24 @@
 
 ## 🚀 About me
 I'm a 23-year-old young man passionate about technology, games, anime, soccer and philosophy! I am currently a student on the ADS course at UCB in Brasília and I am very focused and falling more and more in love with the world of programming and TI.
+<center>
 
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/euopaulo)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_opaulin/)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/eupaulin/)
 
+
+
 ## 🛠 Skills
 HTML, CSS, PYTHON, GIT E GITHUB...
 
-![Euopaulin Status](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)<center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact)
+<a href="https://github.com/euopaulin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euopaulin&theme=dracula" />
+</a>
+<a href="https://github.com/euopaulin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euopaulin&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 </center>
-
