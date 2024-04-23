@@ -14,4 +14,7 @@ I'm a 23-year-old young man passionate about technology, games, anime, soccer an
 ## 🛠 Skills
 HTML, CSS, PYTHON, GIT E GITHUB...
 
-![euopaulin GitHub stats](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)
+![Euopaulin Status](https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula)<center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact)
+</center>
+
