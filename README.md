@@ -16,6 +16,6 @@ I'm a 23-year-old young man passionate about technology, games, anime, soccer an
 
 <div>
 <a href="https://github.com/euopaulin"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=great-gatsby"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=great-gatsby"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
