@@ -8,7 +8,7 @@ I'm a 24-year-old young man passionate about technology, games, anime, soccer an
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/euopaulo)
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baulo.cx/)
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin.cx/)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paulincx/)
 
 ## 🛠 Skills
