@@ -3,11 +3,11 @@
 # **<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hey, I'm Paulo!**
 
 ## 🚀 About me
-I’m a 24-year-old passionate about technology, gaming, anime, soccer, and philosophy. Currently, I’m a student in the Systems Analysis and Development (ADS) program at UCB, Brasília, increasingly focused and in love with the world of programming and IT.
+Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) na UCB, em Brasília, cada vez mais focado e encantado pelo mundo da programação e TI.
 
-With hands-on experience in technical support and IT infrastructure at IPEA, I apply skills in Windows systems, networking, virtualization, and web development using JavaScript, Angular, and Node.js. I’m also keen on cloud computing, especially Microsoft Azure.
+Tenho experiência prática em suporte técnico e infraestrutura de TI no IPEA, aplicando conhecimentos em sistemas Windows, redes, virtualização e desenvolvimento web com JavaScript, Angular e Node.js. Também tenho interesse em computação em nuvem, especialmente Microsoft Azure.
 
-In my free time, I dive into single-player games, geek culture, and philosophical discussions, always aiming to expand my horizons by connecting logic and creativity.
+Nas horas vagas, mergulho em jogos single-player, cultura geek e discussões filosóficas, sempre buscando ampliar meus horizontes conectando lógica e criatividade.
 
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
 
