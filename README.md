@@ -2,7 +2,7 @@
 
 # **<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hey, I'm Paulo!**
 
-## 🚀 About me
+## 🎮 About me
 Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) na UCB, em Brasília, cada vez mais focado e encantado pelo mundo da programação e TI.
 
 Tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e desenvolvimento web com JavaScript, Angular e Node.js. Também tenho interesse em computação em nuvem, especialmente Microsoft Azure.
