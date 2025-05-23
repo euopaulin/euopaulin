@@ -12,19 +12,16 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/euopaulo" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none; outline:none;" />
+  <a href="https://www.linkedin.com/in/euopaulo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/paulin.cx/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border:none; outline:none;" />
+  <a href="https://www.instagram.com/paulin.cx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://steamcommunity.com/id/paulincx/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="border:none; outline:none;" />
+  <a href="https://steamcommunity.com/id/paulincx/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
-
-
-
 
 ## 🛠 Skills
 <p align="center">
