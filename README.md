@@ -5,9 +5,9 @@
 ## 🚀 About me
 Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) na UCB, em Brasília, cada vez mais focado e encantado pelo mundo da programação e TI.
 
-Tenho experiência prática em suporte técnico e infraestrutura de TI no IPEA, aplicando conhecimentos em sistemas Windows, redes, virtualização e desenvolvimento web com JavaScript, Angular e Node.js. Também tenho interesse em computação em nuvem, especialmente Microsoft Azure.
+Tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e desenvolvimento web com JavaScript, Angular e Node.js. Também tenho interesse em computação em nuvem, especialmente Microsoft Azure.
 
-Nas horas vagas, mergulho em jogos single-player, cultura geek e discussões filosóficas, sempre buscando ampliar meus horizontes conectando lógica e criatividade.
+Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e sempre buscando ampliar meus horizontes conectando lógica e criatividade.
 
 ##### 🔗 Below are some links where you can follow me and send me a message so we can exchange ideas.
 
