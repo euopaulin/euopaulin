@@ -15,15 +15,12 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
   <a href="https://www.linkedin.com/in/euopaulo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   &nbsp;
   <a href="https://www.instagram.com/paulin.cx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-   &nbsp;
   <a href="https://steamcommunity.com/id/paulincx/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-   &nbsp;
 </p>
 
 
