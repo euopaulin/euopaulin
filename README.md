@@ -13,7 +13,7 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 
 ---
 
-##### 🔗 Me siga e vamos trocar ideias:
+##### 🔗 Aqui estão minhas redes sociais:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/euopaulo" target="_blank" rel="noopener noreferrer">
