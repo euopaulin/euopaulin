@@ -18,8 +18,7 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 ## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<div>
-<a href="https://github.com/euopaulin"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dracula"/>
+</p>
