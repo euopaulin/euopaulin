@@ -15,17 +15,12 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 
 ##### 🔗 Aqui estão minhas redes sociais:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/euopaulo" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
-  </a>
-  <a href="https://www.instagram.com/paulin.cx/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border:none;" />
-  </a>
-  <a href="https://steamcommunity.com/id/paulincx/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="border:none;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euopaulo)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin.cx/)
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paulincx/)
+
 
 ## 🛠 Skills
 
