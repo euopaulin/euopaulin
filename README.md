@@ -31,9 +31,9 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 </p>
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=synthwave" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=synthwave" alt="Top languages" />
 </p>
 
 ---
