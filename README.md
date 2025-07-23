@@ -5,8 +5,9 @@
 </h1>
 
 ## 🎮 Sobre mim  
-Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB, em Brasília, cada vez mais focado e encantado pelo mundo da tecnologia.
+Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB, em Brasília.
 
+Cada vez mais focado e encantado pelo mundo da tecnologia.
 Tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e teste de qualidade de software. Atualmente focado em uma transição para QA.
 
 Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e sempre buscando ampliar meus horizontes conectando lógica e criatividade.
