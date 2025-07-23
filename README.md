@@ -7,10 +7,9 @@
 ## 🎮 Sobre mim  
 Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB, em Brasília.
 
-Cada vez mais focado e encantado pelo mundo da tecnologia.
-Tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e teste de qualidade de software. Atualmente focado em uma transição para QA.
+Cada vez mais focado e encantado pelo mundo da tecnologia, tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e teste de qualidade de software. Atualmente focado em uma transição para QA.
 
-Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e sempre buscando ampliar meus horizontes conectando lógica e criatividade.
+Nas horas vagas, mergulho no universo gamer geek e indo em shows de rock 🤘🏻.
 
 ---
 
@@ -23,12 +22,13 @@ Nas horas vagas, mergulho em jogos single-player, cultura geek, shows de rock e 
 ## 🛠 Skills
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 <p align="center">
