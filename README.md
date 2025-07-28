@@ -11,7 +11,7 @@ Cada vez mais focado e encantado pelo mundo da tecnologia, tenho experiência pr
 
 Nas horas vagas, mergulho no universo gamer geek e indo em shows de rock 🤘🏻.
 
-Ing: Increasingly focused and captivated by the world of technology, I have hands-on experience in technical support and N1 and N2 infrastructure, applying knowledge of Windows and Linux systems, networking, virtualization, and software quality testing. Currently focused on transitioning to QA.
+**Ing:** Increasingly focused and captivated by the world of technology, I have hands-on experience in technical support and N1 and N2 infrastructure, applying knowledge of Windows and Linux systems, networking, virtualization, and software quality testing. Currently focused on transitioning to QA.
 
 ---
 
