@@ -5,9 +5,10 @@
 </h1>
 
 ## 🎮 Sobre mim  
-Tenho 24 anos e sou apaixonado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB, em Brasília.
+Tenho 25 anos e sou um entusiasta fascinado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB e tenho experiência como Analista de Suporte N1 e N2, em Brasília.
+Possuo as certificações AZ-900 e MS-900 da Microsoft.
 
-Cada vez mais focado e encantado pelo mundo da tecnologia, tenho experiência prática em suporte técnico e infraestrutura N1 e N2, aplicando conhecimentos em sistemas Windows, Linux, redes, virtualização e teste de qualidade de software. Atualmente focado em uma transição para QA.
+Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python e automação em QA.
 
 Nas horas vagas, mergulho no universo gamer geek e indo em shows de rock 🤘🏻.
 
