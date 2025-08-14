@@ -10,8 +10,6 @@ Possuo as certificações AZ-900 e MS-900 da Microsoft.
 
 Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python e automação em QA.
 
-Nas horas vagas, mergulho no universo gamer geek e indo em shows de rock 🤘🏻.
-
 ---
 
 ##### 🔗 Aqui estão minhas redes sociais:
