@@ -5,10 +5,10 @@
 </h1>
 
 ## 🎮 Sobre mim  
-Tenho 25 anos e sou um entusiasta fascinado por tecnologia, games, animes e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB e tenho experiência como Analista de Suporte N1 e N2, em Brasília.
+Tenho 25 anos e sou um entusiasta fascinado por tecnologia, games e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB e tenho experiência como Analista de Suporte N1 e N2, em Brasília.
 Possuo as certificações AZ-900 e MS-900 da Microsoft.
 
-Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python e automação em QA.
+Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python, automação e infraestrutura de TI.
 
 ---
 
