@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Code+and+coffee+=+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Technology+and+innovation+=+💡)](https://git.io/typing-svg)
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
