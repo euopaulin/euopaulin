@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
-## 🎮 Sobre mim  
+## 💻 Sobre mim  
 Tenho 25 anos e sou um entusiasta fascinado por tecnologia, games e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB e tenho experiência como Analista de Suporte N1 e N2, em Brasília.
 Possuo as certificações AZ-900 e MS-900 da Microsoft.
 
