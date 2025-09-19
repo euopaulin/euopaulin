@@ -4,15 +4,15 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
-## 💻 Sobre mim  
-Tenho 25 anos e sou um entusiasta fascinado por tecnologia, games e filosofia. Atualmente, sou estudante do curso de Engenharia de Software na UCB e tenho experiência como Analista de Suporte N1 e N2, em Brasília.
-Possuo as certificações AZ-900 e MS-900 da Microsoft.
+## 💻 About Me
+I'm 25 years old and an enthusiast fascinated by technology, games, and philosophy. I'm currently studying Software Engineering at UCB and have experience as a Support Analyst Level 1 and Level 2 in Brasília.
+I hold Microsoft AZ-900 and MS-900 certifications.
 
-Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python, automação e infraestrutura de TI.
+I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure.
 
 ---
 
-##### 🔗 Aqui estão minhas redes sociais:
+##### 🔗 Here are my social networks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euopaulo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin.cx/)
@@ -44,5 +44,5 @@ Atualmente focado em aperfeiçoar meus conhecimentos em Linux, Python, automaç�
 
 ---
 
-### Quer trocar uma ideia?  
-Me chama nas redes sociais acima ou abre um issue aqui no GitHub! 🚀
+### Want to exchange ideas?
+Contact me on the social media channels above or open an issue here on GitHub! 🚀
