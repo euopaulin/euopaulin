@@ -22,12 +22,6 @@ about_me:
 
 ```
 
-##### 🔗 Here are my social networks:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euopaulo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin.cx/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/b4ulixn/)
-
 ## 🛠 Skills
 
 <p align="center">
@@ -56,3 +50,9 @@ about_me:
 
 ### Want to exchange ideas?
 Contact me on the social media channels above or open an issue here on GitHub! 🚀
+
+##### 🔗 Here are my social networks:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euopaulo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin.cx/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/b4ulixn/)
