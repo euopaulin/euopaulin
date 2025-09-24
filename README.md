@@ -12,7 +12,6 @@ about_me:
     - "🧑‍💻 I'm 25 years old and an enthusiast fascinated by technology, AI, games, and philosophy"
     - "🎓 I'm currently studying Software Engineering at UCB"
     - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília"
-    - "📜 I hold Microsoft AZ-900 and MS-900 certifications"
     - "🧠 I develop scripts, tune LLM models, have knowledge of AWS and Azure clouds and Infrastructure as code"
     - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure"
   contact:
@@ -21,6 +20,13 @@ about_me:
       url: "https://github.com/euopaulin/Ask_me/issues"
 
 ```
+
+## My certification badges
+
+<p>
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height=100>
+  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="MS-900" height=104>
+</p>
 
 ## 🛠 Skills
 
@@ -41,9 +47,9 @@ about_me:
 </p>
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=synthwave" alt="GitHub stats" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dark" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=synthwave" alt="Top languages" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dark" alt="Top languages" />
 </p>
 
 ---
