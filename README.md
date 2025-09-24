@@ -4,13 +4,23 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
-## 💻 About Me
-I'm 25 years old and an enthusiast fascinated by technology, games, and philosophy. I'm currently studying Software Engineering at UCB and have experience as a Support Analyst Level 1 and Level 2 in Brasília.
-I hold Microsoft AZ-900 and MS-900 certifications.
 
-I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure.
+```yaml
+about_me:
+  languages: ["pt-br", "eng"}
+  description:
+    - "🧑‍💻 I'm 25 years old and an enthusiast fascinated by technology, AI, games, and philosophy"
+    - "🎓 I'm currently studying Software Engineering at UCB"
+    - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília.
+    - "📜 I hold Microsoft AZ-900 and MS-900 certifications."
+    - "
+    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure."
+  contact:
+    ask_me_anything:
+      text: "💬 Ask me anything"
+      url: "https://github.com/euopaulin/Ask_me/issues"
 
----
+```
 
 ##### 🔗 Here are my social networks:
 
