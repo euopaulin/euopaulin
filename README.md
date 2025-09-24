@@ -11,10 +11,10 @@ about_me:
   description:
     - "🧑‍💻 I'm 25 years old and an enthusiast fascinated by technology, AI, games, and philosophy"
     - "🎓 I'm currently studying Software Engineering at UCB"
-    - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília.
-    - "📜 I hold Microsoft AZ-900 and MS-900 certifications."
-    - "🧠 I develop scripts, tune LLM models, have knowledge of AWS and Azure clouds and Infrastructure as code."
-    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure."
+    - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília"
+    - "📜 I hold Microsoft AZ-900 and MS-900 certifications"
+    - "🧠 I develop scripts, tune LLM models, have knowledge of AWS and Azure clouds and Infrastructure as code"
+    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, automation, and IT infrastructure"
   contact:
     ask_me_anything:
       text: "💬 Ask me anything"
