@@ -13,7 +13,8 @@ about_me:
     - "🎓 I'm currently studying Software Engineering at UCB"
     - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília"
     - "🧠 I develop scripts, tune LLM models, have knowledge of AWS and Azure clouds and Infrastructure as code"
-    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, LLM Models, automation, and IT infrastructure"
+    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, LLM Models,
+          automation, and IT infrastructure"
   contact:
     ask_me_anything:
       text: "💬 Ask me anything"
