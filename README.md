@@ -25,9 +25,9 @@ about_me:
 ## My certification badges
 
 <p>
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height=60>
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height=62>
   <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="MS-900" height=64>
-  <img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" alt="IT Support Google" height=70>
+  <img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" alt="IT Support Google" height=69>
 </p>
 
 ## 🛠 Skills
