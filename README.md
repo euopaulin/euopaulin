@@ -4,10 +4,27 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
+```python
+import coffe ☕
+def drink_coffe():
+    while True:
+        coffe = input("Is coffee available, yes or no? ")
+        if coffe == "yes":
+            print("Yes, now I'm happy!")
+            break
+        elif coffe != "yes" or "no":
+            print("Don't lie to me, tell the truth! hahaha")
+            continue
+        else:
+            print("Oh no, today is not a good day...")
+            break
+drink_coffe()
+```
+
 
 ```yaml
 about_me:
-  languages: ["pt-br", "eng"}
+  languages: ["pt-br", "eng"]
   description:
     - "🧑‍💻 I'm 25 years old and an enthusiast fascinated by technology, AI, games, and philosophy"
     - "🎓 I'm currently studying Software Engineering at UCB"
