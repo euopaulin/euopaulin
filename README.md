@@ -14,7 +14,7 @@ about_me:
     - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília"
     - "🧠 Solid experience in developing automation scripts and implementing robust CI/CD pipelines. 
           Specialist in orchestrating deployments and optimizing systems in multi-cloud environments (AWS and Azure).
-          Enthusiastic about Artificial Intelligence, seeking to apply AIOps concepts for greater operational efficiency."
+          Enthusiastic about Artificial Intelligence"
     - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, LLM Models,automation,
           and IT infrastructure"
   contact:
