@@ -8,17 +8,17 @@
 import coffee ☕
 def drink_coffee():
     while True:
-        coffe = input("Is coffee available, yes or no? ")
-        if coffe == "yes":
+        coffee = input("Is coffee available, yes or no? ")
+        if coffee == "yes":
             print("Yes, now I'm happy!")
             break
-        elif coffe != "yes" or "no":
+        elif coffee != "yes" or "no":
             print("Don't lie to me, tell the truth! hahaha")
             continue
         else:
             print("Oh no, today is not a good day...")
             break
-drink_coffe()
+drink_coffee()
 ```
 
 
