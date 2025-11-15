@@ -6,7 +6,7 @@
 
 ```python
 import coffee ☕
-def drink_coffe():
+def drink_coffee():
     while True:
         coffe = input("Is coffee available, yes or no? ")
         if coffe == "yes":
