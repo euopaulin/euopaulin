@@ -72,6 +72,7 @@ about_me:
 <p align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dark" alt="GitHub stats" />
   &nbsp;&nbsp;
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dark" alt="Top languages" />
 </p>
 
 ---
