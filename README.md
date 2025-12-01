@@ -4,6 +4,23 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
+  ```python
+  import coffee ☕
+  def drink_coffee():
+      while True:
+          coffee = input("Is coffee available, yes or no? ")
+          if coffee == "yes":
+              print("Yes, now I'm happy!")
+              break
+          elif coffee != "yes" or "no":
+              print("Don't lie to me, tell the truth! hahaha")
+              continue
+          else:
+              print("Oh no, today is not a good day...")
+              break
+  drink_coffee()
+  ```
+
 ```yaml
 about_me:
   languages: ["pt-br", "eng"]
@@ -38,9 +55,6 @@ about_me:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
