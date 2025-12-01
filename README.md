@@ -55,10 +55,13 @@ about_me:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby">
 </p>
 
 <p align="center">
@@ -69,9 +72,9 @@ about_me:
 </p>
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=synthwave" alt="GitHub stats" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dark" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=synthwave" alt="Top languages" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dark" alt="Top languages" />
 </p>
 
 ---
