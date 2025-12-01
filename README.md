@@ -69,9 +69,9 @@ about_me:
 </p>
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euopaulin&show_icons=true&theme=synthwave" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=dark" alt="Top languages" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euopaulin&layout=compact&langs_count=7&theme=synthwave" alt="Top languages" />
 </p>
 
 ---
