@@ -25,17 +25,18 @@
 about_me:
   languages: ["pt-br", "eng"]
   description:
-    - "🧑‍💻 I'm 25 years old and an enthusiast fascinated by technology, AI, games, and philosophy"
-    - "🎓 I'm currently studying Software Engineering at UCB"
-    - "💼 I have experience as a Support Analyst Level 1 and Level 2 in Brasília"
-    - "🧠 Solid experience in developing automation scripts and implementing robust CI/CD pipelines. 
-          Orchestration of deployments and optimization of systems in multi-cloud environments (AWS and Azure).
-          Enthusiastic about Artificial Intelligence"
-    - "🛠️ I'm currently focused on improving my knowledge of Linux, Python, LLM Models,automation,
-          and IT infrastructure"
+    - "🧑‍💻 Tenho 25 anos e sou um entusiasta fascinado por tecnologia, inteligência artificial, games e filosofia."
+    - "🎓 Atualmente, estou cursando Engenharia de Software na UCB."
+    - "💼 Tenho experiência como Suporte de Banco de Dados PostgreSQL em sistemas Linux e criação de scripts Ruby e 
+          também Suporte Técnico N1 e N2."
+    - "🧠 Sólida experiência no desenvolvimento de scripts de automação e na implementação de pipelines CI/CD robustos.
+          Orquestração de implantações e otimização de sistemas em ambientes multicloud (AWS e Azure).
+          Entusiasmo Linux e Inteligência Artificial.
+    - "🛠️ Atualmente, estou focado em aprimorar meu conhecimento em Linux, Ruby/Shell, Modelos de LLM, automação
+          e IaC(Código como insfrestrutura)."
   contact:
     ask_me_anything:
-      text: "💬 Ask me anything"
+      text: "💬 Pergunte-me qualquer coisa"
       url: "https://github.com/euopaulin/Ask_me/issues"
 
 ```
