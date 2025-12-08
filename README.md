@@ -4,21 +4,29 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hey, I'm Paulo!
 </h1>
 
-  ```python
-  import coffee ☕
-  def drink_coffee():
-      while True:
-          coffee = input("Is coffee available, yes or no? ")
-          if coffee == "yes":
-              print("Yes, now I'm happy!")
-              break
-          elif coffee != "yes" or "no":
-              print("Don't lie to me, tell the truth! hahaha")
-              continue
-          else:
-              print("Oh no, today is not a good day...")
-              break
-  drink_coffee()
+  ```bash
+#!/bin/bash
+
+echo "Café quentinho para hoje?"
+
+function coffee() {
+    while true; do
+        echo "Tem café disponível? (s/n)"
+        read answer
+        if [[ "$answer" == "s" ]]; then
+            sudo apt-get install coffee
+            echo "Café instalado com sucesso! Aproveite seu dia!"
+            break
+        elif [[ "$answer" == "n" ]]; then
+            echo "Que pena, o dia está cinza..."
+            break
+        else
+            echo "Não me esconda a verdade. Por favor, responda com 's' ou 'n'."
+        fi
+    done
+}
+
+coffee
   ```
 
 ```yaml
