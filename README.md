@@ -8,13 +8,13 @@
 about_me:
   languages: ["pt-br", "eng"]
   description:
-    - "🧑‍💻 Tenho 25 anos e sou um entusiasta fascinado por tecnologia, inteligência artificial, games e filosofia."
+    - "🧑‍💻 Tenho 25 anos e sou um entusiasta fascinado por tecnologia, software open source, games e filosofia."
     - "🎓 Atualmente, estou cursando Engenharia de Software na UCB."
-    - "💼 Tenho experiência como Suporte de Banco de Dados PostgreSQL em sistemas Linux e criação de scripts Ruby e 
+    - "💼 Tenho experiência como Suporte de Banco de Dados e Scripts Ruby on Rails em sistemas Linux e 
           também Suporte Técnico N1 e N2."
     - "🧠 Sólida experiência no desenvolvimento de scripts de automação e na implementação de pipelines CI/CD robustos.
           Orquestração de implantações e otimização de sistemas em ambientes multicloud (AWS e Azure).
-          Entusiasmo Linux e Inteligência Artificial.
+          Entusiasmo Linux.
     - "🛠️ Atualmente, estou focado em aprimorar meu conhecimento em Linux, Ruby/Shell, Modelos de LLM, automação
           e IaC(Código como insfrestrutura)."
   contact:
